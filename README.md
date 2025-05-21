@@ -24,7 +24,7 @@
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshenMayuranga&show_icons=true&theme=radical" />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshenMayuranga&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=AshenMayuranga&theme=radical" />
 </td>
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenMayuranga&layout=compact&theme=radical" />
